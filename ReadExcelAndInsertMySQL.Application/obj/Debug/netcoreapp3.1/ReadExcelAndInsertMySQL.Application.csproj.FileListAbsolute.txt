@@ -1,0 +1,16 @@
+D:\ReadExcelAndInsertInMySQL\ReadExcelAndInsertMySQL.Application\obj\Debug\netcoreapp3.1\ReadExcelAndInsertMySQL.Application.csprojAssemblyReference.cache
+D:\ReadExcelAndInsertInMySQL\ReadExcelAndInsertMySQL.Application\obj\Debug\netcoreapp3.1\ReadExcelAndInsertMySQL.Application.csproj.CoreCompileInputs.cache
+D:\ReadExcelAndInsertInMySQL\ReadExcelAndInsertMySQL.Application\obj\Debug\netcoreapp3.1\ReadExcelAndInsertMySQL.Application.AssemblyInfoInputs.cache
+D:\ReadExcelAndInsertInMySQL\ReadExcelAndInsertMySQL.Application\obj\Debug\netcoreapp3.1\ReadExcelAndInsertMySQL.Application.AssemblyInfo.cs
+D:\ReadExcelAndInsertInMySQL\ReadExcelAndInsertMySQL.Application\bin\Debug\netcoreapp3.1\ReadExcelAndInsertMySQL.Application.deps.json
+D:\ReadExcelAndInsertInMySQL\ReadExcelAndInsertMySQL.Application\bin\Debug\netcoreapp3.1\ReadExcelAndInsertMySQL.Application.dll
+D:\ReadExcelAndInsertInMySQL\ReadExcelAndInsertMySQL.Application\bin\Debug\netcoreapp3.1\ReadExcelAndInsertMySQL.Application.pdb
+D:\ReadExcelAndInsertInMySQL\ReadExcelAndInsertMySQL.Application\bin\Debug\netcoreapp3.1\ReadExcelAndInsertMySQL.Domain.dll
+D:\ReadExcelAndInsertInMySQL\ReadExcelAndInsertMySQL.Application\bin\Debug\netcoreapp3.1\ReadExcelAndInsertMySQL.Domain.pdb
+D:\ReadExcelAndInsertInMySQL\ReadExcelAndInsertMySQL.Application\obj\Debug\netcoreapp3.1\ReadExcelAndInsertMySQL.Application.csproj.CopyComplete
+D:\ReadExcelAndInsertInMySQL\ReadExcelAndInsertMySQL.Application\obj\Debug\netcoreapp3.1\ReadExcelAndInsertMySQL.Application.dll
+D:\ReadExcelAndInsertInMySQL\ReadExcelAndInsertMySQL.Application\obj\Debug\netcoreapp3.1\ReadExcelAndInsertMySQL.Application.pdb
+D:\ReadExcelAndInsertInMySQL\ReadExcelAndInsertMySQL.Application\bin\Debug\netcoreapp3.1\ReadExcelAndInsertMySQL.Application.exe
+D:\ReadExcelAndInsertInMySQL\ReadExcelAndInsertMySQL.Application\bin\Debug\netcoreapp3.1\ReadExcelAndInsertMySQL.Application.runtimeconfig.json
+D:\ReadExcelAndInsertInMySQL\ReadExcelAndInsertMySQL.Application\bin\Debug\netcoreapp3.1\ReadExcelAndInsertMySQL.Application.runtimeconfig.dev.json
+D:\ReadExcelAndInsertInMySQL\ReadExcelAndInsertMySQL.Application\obj\Debug\netcoreapp3.1\ReadExcelAndInsertMySQL.Application.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+D:\ReadExcelAndInsertInMySQL\ReadExcelAndInsertMySQL.Infra.Data\bin\Debug\netcoreapp3.1\ReadExcelAndInsertMySQL.Domain.dll
+D:\ReadExcelAndInsertInMySQL\ReadExcelAndInsertMySQL.Infra.Data\obj\Debug\netcoreapp3.1\ReadExcelAndInsertMySQL.Infra.Data.csprojAssemblyReference.cache
+D:\ReadExcelAndInsertInMySQL\ReadExcelAndInsertMySQL.Infra.Data\obj\Debug\netcoreapp3.1\ReadExcelAndInsertMySQL.Infra.Data.AssemblyInfoInputs.cache
+D:\ReadExcelAndInsertInMySQL\ReadExcelAndInsertMySQL.Infra.Data\obj\Debug\netcoreapp3.1\ReadExcelAndInsertMySQL.Infra.Data.AssemblyInfo.cs
+D:\ReadExcelAndInsertInMySQL\ReadExcelAndInsertMySQL.Infra.Data\bin\Debug\netcoreapp3.1\ReadExcelAndInsertMySQL.Infra.Data.deps.json
+D:\ReadExcelAndInsertInMySQL\ReadExcelAndInsertMySQL.Infra.Data\bin\Debug\netcoreapp3.1\ReadExcelAndInsertMySQL.Infra.Data.dll
+D:\ReadExcelAndInsertInMySQL\ReadExcelAndInsertMySQL.Infra.Data\bin\Debug\netcoreapp3.1\ReadExcelAndInsertMySQL.Infra.Data.pdb
+D:\ReadExcelAndInsertInMySQL\ReadExcelAndInsertMySQL.Infra.Data\bin\Debug\netcoreapp3.1\ReadExcelAndInsertMySQL.Domain.pdb
+D:\ReadExcelAndInsertInMySQL\ReadExcelAndInsertMySQL.Infra.Data\obj\Debug\netcoreapp3.1\ReadExcelAndInsertMySQL.Infra.Data.csproj.CopyComplete
+D:\ReadExcelAndInsertInMySQL\ReadExcelAndInsertMySQL.Infra.Data\obj\Debug\netcoreapp3.1\ReadExcelAndInsertMySQL.Infra.Data.dll
+D:\ReadExcelAndInsertInMySQL\ReadExcelAndInsertMySQL.Infra.Data\obj\Debug\netcoreapp3.1\ReadExcelAndInsertMySQL.Infra.Data.pdb
+D:\ReadExcelAndInsertInMySQL\ReadExcelAndInsertMySQL.Infra.Data\obj\Debug\netcoreapp3.1\ReadExcelAndInsertMySQL.Infra.Data.csproj.CoreCompileInputs.cache

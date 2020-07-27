@@ -1,0 +1,16 @@
+D:\ReadExcelAndInsertInMySQL\UI\ConsoleApp2\bin\Debug\netcoreapp3.1\ConsoleApp2.exe
+D:\ReadExcelAndInsertInMySQL\UI\ConsoleApp2\bin\Debug\netcoreapp3.1\ConsoleApp2.deps.json
+D:\ReadExcelAndInsertInMySQL\UI\ConsoleApp2\bin\Debug\netcoreapp3.1\ConsoleApp2.runtimeconfig.json
+D:\ReadExcelAndInsertInMySQL\UI\ConsoleApp2\bin\Debug\netcoreapp3.1\ConsoleApp2.runtimeconfig.dev.json
+D:\ReadExcelAndInsertInMySQL\UI\ConsoleApp2\bin\Debug\netcoreapp3.1\ConsoleApp2.dll
+D:\ReadExcelAndInsertInMySQL\UI\ConsoleApp2\bin\Debug\netcoreapp3.1\ConsoleApp2.pdb
+D:\ReadExcelAndInsertInMySQL\UI\ConsoleApp2\bin\Debug\netcoreapp3.1\ReadExcelAndInsertMySQL.Domain.dll
+D:\ReadExcelAndInsertInMySQL\UI\ConsoleApp2\bin\Debug\netcoreapp3.1\ReadExcelAndInsertMySQL.Domain.pdb
+D:\ReadExcelAndInsertInMySQL\UI\ConsoleApp2\obj\Debug\netcoreapp3.1\ConsoleApp2.csproj.CoreCompileInputs.cache
+D:\ReadExcelAndInsertInMySQL\UI\ConsoleApp2\obj\Debug\netcoreapp3.1\ConsoleApp2.AssemblyInfoInputs.cache
+D:\ReadExcelAndInsertInMySQL\UI\ConsoleApp2\obj\Debug\netcoreapp3.1\ConsoleApp2.AssemblyInfo.cs
+D:\ReadExcelAndInsertInMySQL\UI\ConsoleApp2\obj\Debug\netcoreapp3.1\ConsoleApp2.csproj.CopyComplete
+D:\ReadExcelAndInsertInMySQL\UI\ConsoleApp2\obj\Debug\netcoreapp3.1\ConsoleApp2.dll
+D:\ReadExcelAndInsertInMySQL\UI\ConsoleApp2\obj\Debug\netcoreapp3.1\ConsoleApp2.pdb
+D:\ReadExcelAndInsertInMySQL\UI\ConsoleApp2\obj\Debug\netcoreapp3.1\ConsoleApp2.genruntimeconfig.cache
+D:\ReadExcelAndInsertInMySQL\UI\ConsoleApp2\obj\Debug\netcoreapp3.1\ConsoleApp2.csprojAssemblyReference.cache

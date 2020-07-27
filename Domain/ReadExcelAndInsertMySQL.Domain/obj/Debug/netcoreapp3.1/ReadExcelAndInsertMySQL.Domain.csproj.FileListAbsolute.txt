@@ -1,0 +1,9 @@
+D:\ReadExcelAndInsertInMySQL\Domain\ReadExcelAndInsertMySQL.Domain\bin\Debug\netcoreapp3.1\ReadExcelAndInsertMySQL.Domain.deps.json
+D:\ReadExcelAndInsertInMySQL\Domain\ReadExcelAndInsertMySQL.Domain\bin\Debug\netcoreapp3.1\ReadExcelAndInsertMySQL.Domain.dll
+D:\ReadExcelAndInsertInMySQL\Domain\ReadExcelAndInsertMySQL.Domain\obj\Debug\netcoreapp3.1\ReadExcelAndInsertMySQL.Domain.csprojAssemblyReference.cache
+D:\ReadExcelAndInsertInMySQL\Domain\ReadExcelAndInsertMySQL.Domain\obj\Debug\netcoreapp3.1\ReadExcelAndInsertMySQL.Domain.AssemblyInfoInputs.cache
+D:\ReadExcelAndInsertInMySQL\Domain\ReadExcelAndInsertMySQL.Domain\obj\Debug\netcoreapp3.1\ReadExcelAndInsertMySQL.Domain.AssemblyInfo.cs
+D:\ReadExcelAndInsertInMySQL\Domain\ReadExcelAndInsertMySQL.Domain\bin\Debug\netcoreapp3.1\ReadExcelAndInsertMySQL.Domain.pdb
+D:\ReadExcelAndInsertInMySQL\Domain\ReadExcelAndInsertMySQL.Domain\obj\Debug\netcoreapp3.1\ReadExcelAndInsertMySQL.Domain.csproj.CoreCompileInputs.cache
+D:\ReadExcelAndInsertInMySQL\Domain\ReadExcelAndInsertMySQL.Domain\obj\Debug\netcoreapp3.1\ReadExcelAndInsertMySQL.Domain.dll
+D:\ReadExcelAndInsertInMySQL\Domain\ReadExcelAndInsertMySQL.Domain\obj\Debug\netcoreapp3.1\ReadExcelAndInsertMySQL.Domain.pdb
